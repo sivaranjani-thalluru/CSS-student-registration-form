@@ -40,6 +40,10 @@ If validation is successful, a confirmation message is displayed.
 
 ## 📂 Project Structure
 ---
+student-registration-form
+│── index.html
+│── style.css
+│── script.js
 
 ## 💡 Future Improvements
 
